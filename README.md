@@ -30,7 +30,7 @@
 
 # 
 
-# !\[Resultados del Análisis](probeta.jpg)
+# ![Resultados del Análisis](probeta.jpg)
 
 # 
 
